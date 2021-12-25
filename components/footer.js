@@ -182,14 +182,14 @@
           <h4>Contact Us</h4>
           <p>
            <strong>Address:</strong>
-            A1-004, Shruti Park, <br>
-            Dhokali Balkum Road <br>
-            Thane West, 400607 <br>
+            202, Pristine Towers, <br>
+            Kasarvadavli, Ghodbunder Road <br>
+            Thane West, 400615 <br>
             Maharashtra, India <br><br>
             <strong>Phone:</strong> +91 970216-8576<br>
-            <strong>Email:</strong> kumar.sawant@stuffbits.in <br><br>
+            <strong>Email:</strong> kumar@stuffbits.in <br><br>
             <strong>Phone:</strong> +91 970236-4041<br>
-            <strong>Email:</strong> nasreen.stuffbits@gmail.com <br>
+            <strong>Email:</strong> nasreen.shaikh@stuffbits.in <br>
           </p>
 
           <div class="social-links">
