@@ -189,7 +189,7 @@
             <strong>Phone:</strong> +91 970216-8576<br>
             <strong>Email:</strong> kumar@stuffbits.in <br><br>
             <strong>Phone:</strong> +91 970236-4041<br>
-            <strong>Email:</strong> nasreen.shaikh@stuffbits.in <br>
+            <strong>Email:</strong> nasreen.stuffbits@gmail.com <br>
           </p>
 
           <div class="social-links">
